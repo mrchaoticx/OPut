@@ -1,3 +1,6 @@
 # OPut
-A programming language built for speed and learning the fundamentals of programming. 
-Built on JavaScript allows OPut to be natively run on any device with a browser.
+A JavaScript library that allows web automation through [Bookmarklets.](https://www.freecodecamp.org/news/what-are-bookmarklets/) With easy creation tools based on the Python syntax, OPut is easy to learn and simple for the professional space.
+
+## Syntax 
+
+# Exstension
