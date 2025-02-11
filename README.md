@@ -3,4 +3,4 @@ A JavaScript library that allows web automation through [Bookmarklets.](https://
 
 ## Syntax 
 
-# Exstension
+## Exstension
