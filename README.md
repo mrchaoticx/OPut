@@ -1,6 +1,4 @@
 # OPut
-A JavaScript library that allows web automation through [Bookmarklets.](https://www.freecodecamp.org/news/what-are-bookmarklets/) With easy creation tools based on the Python syntax, OPut is easy to learn and simple for the professional space.
-
-## Syntax 
+OPut allows you to create advanced [Bookmarklets.](https://www.freecodecamp.org/news/what-are-bookmarklets/) with user interface. Easy to use and learn, great for the professional space.
 
 ## Exstension
