@@ -1,0 +1,12 @@
+{
+  "tooltree": {
+    "tool": {
+      "title": "Get Element",
+      "script": "document.querySelector('${getElmVal}')",
+      "buttonId": "getElementBtn",
+      "input": {
+        "inputId": "getElmVal"
+      }
+    }
+  }
+}
