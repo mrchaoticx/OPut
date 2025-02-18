@@ -1,6 +1,6 @@
 {
   "tooltree": {
-    "tool": {
+    "tool0": {
       "title": "Get Element",
       "script": "document.querySelector('${getElmVal}')",
       "buttonId": "getElementBtn",
