@@ -1,5 +1,5 @@
 {
-  "tool": {
+  "tool0": {
     "title": "Get Element",
     "script": "document.querySelector('${getElmVal}')",
     "buttonId": "getElementBtn",
@@ -7,7 +7,7 @@
       "inputId": "getElmVal"
     }
   },
-  "tool": {
+  "tool1": {
     "title": "Remove Element",
     "script": ".remove()",
     "buttonId": "removeElementBtn",
