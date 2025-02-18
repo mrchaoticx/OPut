@@ -1,5 +1,5 @@
 {
-  "count": 2,
+  "cnt": 2,
   "tool0": {
     "title": "Get Element",
     "script": "document.querySelector('${getElmVal}')",
