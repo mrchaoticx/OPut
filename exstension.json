@@ -1,19 +1,14 @@
-{
-  "cnt": 2,
-  "tool0": {
-    "title": "Get Element",
-    "script": "document.querySelector('${getElmVal}')",
-    "buttonId": "getElementBtn",
-    "input": {
+    "cnt": 2,
+    "tool0": {
+      "title": "Get Element",
+      "script": "document.querySelector('${getElmVal}')",
+      "buttonId": "getElementBtn",
       "inputId": "getElmVal"
-    }
-  },
-  "tool1": {
-    "title": "Remove Element",
-    "script": ".remove()",
-    "buttonId": "removeElementBtn",
-    "input": {
+    },
+    "tool1": {
+      "title": "Remove Element",
+      "script": ".remove()",
+      "buttonId": "removeElementBtn",
       "inputId": "removeElmVal"
     }
   }
-}
