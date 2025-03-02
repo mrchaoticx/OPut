@@ -1,0 +1,10 @@
+{
+    "name": "OPut",
+    "description": "OPut allows you to create advanced BookMarklets with user interface.",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+      "default_popup": "index.html",
+      "default_icon": "hello_extensions.png"
+    }
+}
