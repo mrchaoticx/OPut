@@ -1,0 +1,29 @@
+html, body {
+    color: rgb(255, 220, 103);
+    background: rgb(14, 17, 31);
+}
+
+.wrapper {
+    width: 300px;
+}
+
+hr {
+    width: 95vw;
+}
+
+.in {
+    width: 10vw;
+}
+
+.code-element {
+    background: rgb(20, 24, 43);
+    text-align: center;
+    padding: 4px;
+    height: 7vh;
+    border-radius: 2vh;
+    margin-bottom: 2vh;
+}
+
+button {
+    padding: 0px;
+}
